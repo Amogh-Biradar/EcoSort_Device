@@ -6,3 +6,7 @@ Waste management is a critical global challenge, necessitating innovative soluti
 
 Edit 3/17/2024: I Just won First Place in the Computer Science division at the Coriell Science Fair. I am moving on to the DVSF competition.
 Edit 4/27/2024: A bit late, but didn't move on. I did present EcoSort on 3/18/2024 at the NJ STEM Showcase in front of legislators.
+
+Edit 12/1/2025: I was looking at all my repos and saw this doesnt have the code. I looked for it on my mac but turns out its on my windows laptop. In the meantime, heres a vid of me running it (ish)
+
+https://www.youtube.com/watch?v=2c36WnxtwyE
